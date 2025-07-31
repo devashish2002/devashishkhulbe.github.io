@@ -1,0 +1,21 @@
+items:
+  - date: "Jul 25"
+    content: "Our paper on Urban socioeconomic modeling using GNNs was accepted at Smart Cities."
+    
+  - date: "Jul 25"
+    content: "Our paper on Urban Delineation using Graph Representation Learning was accepted at PLOS Complex Systems."
+    
+  - date: "Jan 25"
+    content: "I joined as a researcher at Thales Research and Technology, working on network AI models for knowledge graphs."
+    
+  - date: "Dec 24"
+    content: "I presented our research on modeling mobility networks with deep learning methods at Complex Networks 2024 conference in Istanbul, Turkey."
+    
+  - date: "Sep 24"
+    content: "I am part of the core team starting the Data Analytics undergraduate program at MUNI, beginning Fall 24."
+    
+  - date: "Jul 23"
+    content: "I presented our paper Mobility Networks as a Predictor of Socioeconomic Status in Urban Systems at ICCSA 2023 in Athens, Greece."
+    
+  - date: "May 23"
+    content: "I presented our research with commute network modeling with Graph Neural Networks in FRCCS 2023 in Le Havre, France."

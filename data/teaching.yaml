@@ -1,0 +1,13 @@
+courses:
+  - semester: "Spring 2021, 2022"
+    title: "Applied Data Science"
+    role: "Adjunct Instructor"
+    institution: "NYU"
+    # description: "Assisted with lectures, graded assignments, and conducted lab sessions on neural networks and deep learning algorithms."
+    # website: "https://course-website.com"  # Optional
+    
+  - semester: "Fall 2020, 2021"
+    title: "Principles of Urban Informatics"
+    role: "Adjunct Instructor"
+    institution: "NYU"
+    # description: "Supported students with machine learning concepts, supervised projects, and helped with programming assignments in Python."

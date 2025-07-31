@@ -1,0 +1,67 @@
+papers:
+  - title: "Urban delineation through the lens of commute networks: Leveraging graph embeddings to distinguish socioeconomic groups in cities"
+    authors: "Devashish Khulbe, Stanislav Sobolevsky"
+    venue: "PLOS Complex Systems"
+    year: 2025
+    status: "accepted"  # accepted, published, preprint, under_review
+    links:
+      link: "https://arxiv.org/abs/2507.11057"
+      # code: "https://github.com/your-username/gnn-transport"
+      # slides: "slides/icml2025_presentation.pdf"
+      # project: "https://your-project-page.com"
+      # video: "https://youtube.com/watch?v=xxxxx"
+    
+  - title: "Commute Networks as a Signature of Urban Socioeconomic Performance: Evaluating Mobility Structures with Deep Learning Models"
+    authors: "Devashish Khulbe, Alexander Belyi, Stanislav Sobolevsky"
+    venue: "Smart Cities"
+    year: 2025
+    status: "published"
+    links:
+      link: "https://www.mdpi.com/2624-6511/8/4/125"
+      # project: "https://social-network-analysis.github.io"
+      # code: "https://github.com/username/social-gnn"
+    
+  - title: "Distance deterrence comparison in urban commute among different socioeconomic groups: A normalized linear piece-wise gravity model"
+    authors: "Mingyi He, Yuri Bogomolov, Devashish Khulbe, Stanislav Sobolevsky"
+    venue: "Journal of Transport Geography"
+    year: 2023
+    status: "published"
+    links:
+      link: "https://www.sciencedirect.com/science/article/abs/pii/S0966692323002041?via%3Dihub"
+      # talk: "https://youtube.com/watch?v=transportation-talk"
+      # poster: "posters/ictr2023_poster.pdf"
+    
+  - title: "Mobility Networks as a Predictor of Socioeconomic Status in Urban Systems"
+    authors: "Devashish Khulbe, Alexander Belyi, Ondřej Mikeš, Stanislav Sobolevsky"
+    venue: "International Conference on Computational Science and Its Applications"
+    year: 2023
+    status: "published"
+    links:
+      link: "https://link.springer.com/chapter/10.1007/978-3-031-36808-0_32"
+      # code: "https://github.com/your-username/urban-mobility"
+      # dataset: "https://zenodo.org/record/xxxxx"
+    
+  - title: "A probabilistic simulation framework to assess the impacts of ridesharing and congestion charging in New York City"
+    authors: "Devashish Khulbe*, Chaogui Kang*, Satish Ukkusuri, Stanislav Sobolevsky"
+    venue: "Data Science for Transportation"
+    year: 2023
+    status: "published"
+    links:
+      link: "https://link.springer.com/article/10.1007/s42421-023-00066-x"
+      # code: "Coming soon"
+
+  - title: "Impact of income on urban commute across major cities in US"
+    authors: "Yuri Bogomolov, Mingyi He, Devashish Khulbe, Stanislav Sobolevsky"
+    venue: "Procedia Computer Science"
+    year: 2023
+    status: "published"
+    links:
+      link: "https://www.sciencedirect.com/science/article/pii/S1877050921020743"
+
+  - title: "Modeling Severe Traffic Accidents with Spatial and Temporal Features"
+    authors: "Soumya Sourav, Devashish Khulbe, Vishal Verma"
+    venue: "International Conference on Neural Information Processing"
+    year: 2019
+    status: "published"
+    links:
+      link: "https://link.springer.com/chapter/10.1007/978-3-030-36711-4_44"
