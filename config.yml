@@ -1,20 +1,20 @@
-baseURL: "https://devashishkhulbe.github.io"
+baseURL: "https://devashishkhulbe.xyz"
 languageCode: "en-us"
 title: "Devashish Khulbe"
 
 params:
   author: "Devashish Khulbe"
-  email: "dk3596@nyu.edu"  # Replace with your actual email
+  email: "devashish@example.com"  # Replace with your actual email
   description: "Researcher and Ph.D. candidate specializing in Deep Learning"
-  keywords: ["Deep Learning","Graph Neural Networks", "Urban Informatics"]
+  keywords: ["Deep Learning", "Machine Learning", "Graph Neural Networks", "Research"]
   
   # Social and academic links
-  github: "devashish2002"
-  email: "dk3596@nyu.edu"
-  scholar: "https://scholar.google.com/citations?user=jlDS4BwAAAAJ&hl=en"
+  github: "your-github-username"
+  linkedin: "your-linkedin-profile"
+  scholar: "your-google-scholar-id"
   cv: "cv.pdf"  # Put your CV in static/ folder
-  # orcid: "0000-0000-0000-0000"  # Optional
-  # twitter: "your-twitter"  # Optional
+  orcid: "0000-0000-0000-0000"  # Optional
+  twitter: "your-twitter"  # Optional
   
   # Institution
   institution: "MUNI Digital City Lab"
@@ -25,18 +25,18 @@ menu:
     - name: "About"
       url: "/"
       weight: 1
-    # - name: "Research"
-    #   url: "#research"
-    #   weight: 2
+    - name: "Research"
+      url: "#research"
+      weight: 2
     - name: "Publications"
       url: "#publications"
-      weight: 2
+      weight: 3
     - name: "Teaching"
       url: "#teaching"
-      weight: 3
+      weight: 4
     - name: "News"
       url: "#news"
-      weight: 4
+      weight: 5
 
 markup:
   goldmark:
