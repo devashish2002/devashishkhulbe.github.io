@@ -4,17 +4,17 @@ title: "Devashish Khulbe"
 
 params:
   author: "Devashish Khulbe"
-  email: "devashish@example.com"  # Replace with your actual email
+  email: "dk3596@nyu.edu"  # Replace with your actual email
   description: "Researcher and Ph.D. candidate specializing in Deep Learning"
-  keywords: ["Deep Learning", "Machine Learning", "Graph Neural Networks", "Research"]
+  keywords: ["Deep Learning", "Graph Neural Networks"]
   
   # Social and academic links
-  github: "your-github-username"
-  linkedin: "your-linkedin-profile"
-  scholar: "your-google-scholar-id"
+  # github: "your-github-username"
+  # linkedin: "your-linkedin-profile"
+  scholar: "https://scholar.google.com/citations?user=jlDS4BwAAAAJ&hl=en"
   cv: "cv.pdf"  # Put your CV in static/ folder
-  orcid: "0000-0000-0000-0000"  # Optional
-  twitter: "your-twitter"  # Optional
+  # orcid: "0000-0000-0000-0000"  # Optional
+  # twitter: "your-twitter"  # Optional
   
   # Institution
   institution: "MUNI Digital City Lab"
@@ -25,18 +25,18 @@ menu:
     - name: "About"
       url: "/"
       weight: 1
-    - name: "Research"
-      url: "#research"
-      weight: 2
+    # - name: "Research"
+    #   url: "#research"
+      # weight: 2
     - name: "Publications"
       url: "#publications"
-      weight: 3
+      weight: 2
     - name: "Teaching"
       url: "#teaching"
-      weight: 4
+      weight: 3
     - name: "News"
       url: "#news"
-      weight: 5
+      weight: 4
 
 markup:
   goldmark:
