@@ -9,7 +9,7 @@ My work has been focused on developing novel approaches to graph neural networks
 
 Some key areas of my research include:
 
-- **Graph Representation Learning**: Developing efficient architectures for large-scale graph data processing and analysis, including knowledge graphs and ontologies.
+- **Graph Representation Learning**: Developing efficient architectures for large-scale graph data representation and modeling, including knowledge graphs and ontologies.
 
 - **Urban Informatics**: Using AI to understand complex social dynamics and behavioral patterns in Urban Systems.
 
