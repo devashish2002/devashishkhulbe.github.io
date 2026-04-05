@@ -1,4 +1,10 @@
 items:
+  - date: "Mar 26"
+    content: "I have joined [Analog AI](https://analog.io/) in Abu Dhabi as a Research Engineer, working on world models for physical intelligence."
+
+  - date: "Mar 26"
+    content: "New paper preprint on our work on a tree-based model for continual learning: [Read paper](https://arxiv.org/pdf/2603.13276)"
+
   - date: "Jul 25"
     content: "Our paper on Urban socioeconomic modeling using GNNs was accepted at Smart Cities."
     
