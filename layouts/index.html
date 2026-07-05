@@ -142,7 +142,7 @@
                 {{ range .Site.Data.news.items }}
                 <div class="news-item">
                     <span class="news-date">({{ .date }}):</span>
-                    <span class="news-content">{{ .content }}</span>
+                    <span class="news-content">{{ .content | markdownify }}</span>
                 </div>
                 {{ end }}
             </div>

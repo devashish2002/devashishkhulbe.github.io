@@ -1,4 +1,12 @@
 papers:
+  - title: "FastODT: A tree-based framework for efficient continual learning"
+    authors: "Daniel Bretsko, Piotr Walas, Devashish Khulbe, Sebastian Stros, Stanislav Sobolevsky, Tomas Satura"
+    venue: "arXiv preprint"
+    year: 2026
+    status: "preprint"  # accepted, published, preprint, under_review
+    links:
+      link: "https://arxiv.org/abs/2603.13276"
+
   - title: "Urban delineation through the lens of commute networks: Leveraging graph embeddings to distinguish socioeconomic groups in cities"
     authors: "Devashish Khulbe, Stanislav Sobolevsky"
     venue: "PLOS Complex Systems"
